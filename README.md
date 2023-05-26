@@ -10,3 +10,4 @@ For more details, please refer to **[ASR Documents Page](https://asriot.readthed
 
 &nbsp;
 
+Added EU433 Band and ADC reading for LoRaWAN Sensor Node
