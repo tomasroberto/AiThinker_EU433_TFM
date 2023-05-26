@@ -1,4 +1,4 @@
-# ASR6601 SDK
+# AiThinker boarad based on ASR6601 SDK LoRaWAN EU433 Sensor Node
 
 Added EU433 Band and ADC reading for LoRaWAN Sensor Node
 Designed from ASR6601 SDK examples Lorawan class a
