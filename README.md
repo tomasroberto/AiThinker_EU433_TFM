@@ -9,4 +9,4 @@ ASR6601 can achieve a high sensitivity to -148 dBm and the maximum transmit powe
 For more details, please refer to **[ASR Documents Page](https://asriot.readthedocs.io/en/latest).**
 
 &nbsp;
-
+Modifications to LoRaWAN class A example to change band to EU433 and add reading of ADC as data to send to the network.
