@@ -1,7 +1,10 @@
-# AiThinker boarad based on ASR6601 SDK LoRaWAN EU433 Sensor Node
+# TRLA UNED TFM 2023
+# LoRaWAN EU433 Sensor Node
+# AiThinker board based on ASR6601 SDK 
 
-Added EU433 Band and ADC reading for LoRaWAN Sensor Node
-Designed from ASR6601 SDK examples Lorawan class a
+Added EU433 Band and ADC reading for LoRaWAN Sensor Node test concept
+
+Designed from ASR6601 SDK examples LoRaWAN Class A device
 
 
 ASR6601 is a general LPWAN Wireless Communication SoC, with integrated RF Transceiver, Modem and a 32-bit RISC MCU. The RF Transceiver has continuous frequency coverage from 150 MHz to 960 MHz. The Modem supports LoRa modulation for LPWAN use cases and (G)FSK modulation for legacy use cases. The Modem also supports BPSK modulation in TX and (G)MSK modulation in TX and RX. The LPWAN Wireless Communication Module designed with ASR6601 provides ultralong range and ultra-low power communication for LPWAN application.
